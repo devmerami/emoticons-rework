@@ -1,6 +1,3 @@
-**ATTENTION**: This mod is **no longer being maintained by McHorse. It is now maintained by Chryfi.**
- There are **still going to be official updates by Chryfi and other contributors** and there have been task forces that are investigating on porting it. **If you also want to contribute to official updates**, or to the porting effort, please **join the official [McHorse's Discord server](https://discord.gg/qfxrqUF), so we can communicate with you.** Check out the [source code](https://github.com/mchorse/emoticons). 
-
 ![Emoticons](https://i.imgur.com/do30WtA.png)
 
 **Emoticons** is a **cosmetic** Minecraft mod which adds custom player animations and emote system. There are **62** emotes which can be triggered by the player using keybinds which come with the mod. 
@@ -9,40 +6,34 @@ Check out this playlist for showcase of the mod.
 
 <a href="https://youtu.be/11lAGyM1Fyc?list=PL6UPd2Tj65nFUAUardpcX1sGXNEo21ZIQ"><img src="https://img.youtube.com/vi/11lAGyM1Fyc/0.jpg"></a> 
 
-## Install
-
-Install [Minecraft Forge](http://files.minecraftforge.net/), download the latest stable version of jar file for available Minecraft version. Also install following mods: [McLib](https://www.curseforge.com/minecraft/mc-mods/mchorses-mclib). Put it in minecraft's `mods` folder, and launch the game.
-
-After that, Emoticons mod should be installed and will appear in Minecraft's mods menu. If Emoticons didn't appear in the mods menu, then something went wrong. 
-
 ## FAQ
 
-**Q: I don't like Emoticons' animations, but emotes are very cool. Can I disable them?**  
-A: You can disable them in McLib's dashboard (Ctrl + 0, check for conflicting keybinds in Options - Controls, if it doesn't work) by enabling **Disable non-emote animations** toggle option.
+**Q: Мне не нравятся обычные анимации Emoticons, но эмоции классные. Можно отключить остальные анимации?**  
+A: Да. Это можно сделать в панели McLib (`Ctrl + 0`, если не открывается, проверь конфликт клавиш в `Options -> Controls`) через переключатель **Disable non-emote animations**.
 
-**Q: Will you downgrade/upgrade mod to other version of Minecraft?**  
-A: No. It's gonna stay 1.12.2 (and 1.8.9) only.
+**Q: Будет ли мод перенесен на другие версии Minecraft?**  
+A: Нет. Мод остается только на `1.12.2` и `1.8.9`.
 
-**Q: I'm using 1.8.9 version and it says something about "mclib"?**  
-A: You need to install [McLib for 1.8.9](https://www.curseforge.com/minecraft/mc-mods/mchorses-mclib/files/3102750) so it would work.
+**Q: Я использую версию 1.8.9, и игра пишет что-то про "mclib". Что делать?**  
+A: Нужно установить [McLib для 1.8.9](https://www.curseforge.com/minecraft/mc-mods/mchorses-mclib/files/3102750).
 
-**Q: I'm playing with my friends on the server, and why I can't see them emote, or they can't see me emote?**  
-A: In order to see other people emote, the server must also install the mod. No mod on the server, no people emoting.
+**Q: Я играю с друзьями на сервере. Почему я не вижу их эмоции или они не видят мои?**  
+A: Чтобы видеть эмоции других игроков, мод должен быть установлен не только у клиента, но и на сервере. Если на сервере мода нет, эмоции отображаться не будут.
 
-**Q: Can you add support with mod X?**  
-A: No, I won't add support with any other mods.
+**Q: Можете добавить совместимость с модом X?**  
+A: Нет, поддержка других модов добавляться не будет.
 
-**Q: Can I add custom emotes myself?**  
-A: Yes, watch [this tutorial](https://youtu.be/dhSYT2HEweM) video! Those are not synchronized across clients though. You'll have to manually send these emote files to other people.
+**Q: Можно ли самому добавить кастомные эмоции?**  
+A: Да, для этого есть [видео-туториал](https://youtu.be/dhSYT2HEweM). Но такие эмоции не синхронизируются автоматически между клиентами, поэтому файлы эмоций придется передавать другим игрокам вручную.
 
-**Q: Can you add custom music to emotes?**  
-A: No, because I have no time/skill to make cool tunes for every emote, and if I use the original audio that would be illegal. However, you can replace the sounds in Emoticons' jar. Keep in mind that these sounds are going to loop.
+**Q: Можно ли добавить свою музыку к эмоциям?**  
+A: Нет, потому что на создание отдельной музыки для каждой эмоции нет времени и ресурсов, а использовать оригинальные треки незаконно. При этом ты можешь заменить звуки внутри `jar`-файла Emoticons. Учти, что эти звуки будут зацикливаться.
 
-**Q: I saw emotes were used in a Minecraft client. Are they allowed?**  
-A: Before January 18th, 2022, only [Badlion Client](https://client.badlion.net/), [Lunar Client](https://www.lunarclient.com/), [Crystal Client](https://crystalclient.net/), and a couple of other purchased a license to use my work in their software for profit. Other clients were doing that illegaly (like kraft rise and kristalix clients).
+**Q: Я видел, что эмоции использовались в каком-то Minecraft-клиенте. Это вообще разрешено?**  
+A: До `18 января 2022 года` лицензию на использование работы в коммерческих клиентах купили только [Badlion Client](https://client.badlion.net/), [Lunar Client](https://www.lunarclient.com/), [Crystal Client](https://crystalclient.net/) и еще несколько других. Остальные использовали это нелегально.
 
-**Q: Can I use this code in my Minecraft client?**  
-A: Read the license, and make a conclusion on your own.
+**Q: Можно ли использовать этот код в своем Minecraft-клиенте?**  
+A: Прочитай лицензию и сделай вывод сам.
 
 ## License
 
