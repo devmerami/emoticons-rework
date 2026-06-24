@@ -1,0 +1,30 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+classes
+eclipse
+run
+.DS_Store
+*.blend1
+*.log
+release
+tools/jdk8.zip
+tools/jdk8u492-b09
+runclient*.log
